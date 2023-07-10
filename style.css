@@ -1,0 +1,9 @@
+ul {
+    background-color: #dddddd;
+  }
+
+  li {
+    display: inline;
+  }
+  
+ img {display: inline-flex;}
